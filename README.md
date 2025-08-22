@@ -125,6 +125,8 @@ ret
 <img width="1918" height="1136" alt="Screenshot 2025-08-21 214803" src="https://github.com/user-attachments/assets/40717e7c-c52a-4210-b3b0-7e4a3c6072d1" />
 
 ## Result :
+
+Executing ALP for fundamental arithmetic and logical operations was successfully done.
  
 
 
